@@ -36,4 +36,4 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thurain11&label=Profile%20views&color=0e75b6&style=flat" alt="thurain11" /> </p>
