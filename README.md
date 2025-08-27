@@ -25,14 +25,14 @@
 ### 📈 **GitHub Stats**
 <!-- You can use services like https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+<a href="https://github.com/thurain11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thurain11&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurain11&layout=compact&theme=radical" />
 </a>
 </p>
 
 <!-- Optional: Add a trophy section -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourusername" alt="yourusername" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thurain11" alt="thurain11" /></a> </p>
 
 ---
 
